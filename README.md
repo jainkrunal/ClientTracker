@@ -6,4 +6,4 @@
 
     pyinstaller --onefile --noconsole Program.py
 
--> Run the .exe file.
+-> Run the .exe file
