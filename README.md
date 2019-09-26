@@ -1,9 +1,9 @@
--> Install all the packages given in Requirements.txt using the command:
+## Install all the packages given in Requirements.txt using the command:
 
-    pip install -r Requirements.txt
+> pip install -r Requirements.txt
     
--> Build .exe file using the command:
+## Build .exe file using the command:
 
-    pyinstaller --onefile --noconsole Program.py
+>  pyinstaller --onefile --noconsole Program.py
 
--> Run the .exe file
+## Run the .exe file
